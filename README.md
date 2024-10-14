@@ -30,7 +30,7 @@ Consider a composite cylinder made of two cylinders made of two different materi
 ![pic00001](https://github.com/user-attachments/assets/ee192a91-c837-4708-b27c-5080830fdd7f)
 
 <p align="center">
-    *Figure 1: (a) Inner Cylinder and (b) Outer Cylinder before Assembly*
+    Figure 1: (a) Inner Cylinder and (b) Outer Cylinder before Assembly
 </p>
 
 __(1)__ Our primary objective is to determine expression for the radial stress σr and the circumferential stress σθ for the inner cylinder, employing an axisymmetric formulation.
