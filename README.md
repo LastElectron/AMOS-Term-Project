@@ -1,16 +1,14 @@
-# Stressses in Composite Cylinders with Shrink Fits
+# Stresses in Composite Cylinders with Shrink Fits
 
-## Group Members:
-Dolly Tiwari (23ME91R04)
+## Group Members
+- Dolly Tiwari (23ME91R04)
+- Mungekar Gaurav Bholanath Madhavi (23ME63R11)
+- Harshit Meghjibhai Dandecha (23ME63R19)
+- Aaditi Kumari (23ME63R34)
 
-Mungekar Gaurav Bholanath Madhavi (23ME63R11)
-
-Harshit Meghjibhai Dandecha (23ME63R19)
-
-Aaditi Kumari (23ME63R34)
-
-## Guide:
+## Guide
 Prof. Jeevanjyoti Chakraborty
+
 
 ## __Problem Statement:__
 
