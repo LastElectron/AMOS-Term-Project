@@ -27,6 +27,8 @@
 
 Consider a composite cylinder made of two cylinders made of two different materials and fitted one inside the other. Before assembling, the inner cylinder has an internal radius a and an external radius $c$. The internal radius of the outer cylinder is less than $c$ by $\Delta$, i.e. its internal radius is $c$ - $\Delta$. Its external radius is b. If the inner cylinder is cooled and the outer cylinder is heated, then the two cylinders can be assembled, one fitting inside the other. When the cylinders come to room temperature, a shrink fit is obtained.
 
+![pic00001](https://github.com/user-attachments/assets/b12b3cf3-c2aa-4b0b-aac0-44bf851927ed)
+
 __(1)__ Our primary objective is to determine expression for the radial stress σr and the circumferential stress σθ for the inner cylinder, employing an axisymmetric formulation.
 
 __(2)__ The contact pressure pc acting on the outer surface of the inner cylinder reduces its outer radius by u1. On the other hand, the same contact pressure increases the inner radius of the outer cylinder by u2. The sum of these two quantities, i.e. (−u1 + u2) must be equal to delta, the difference in the radii of the cylinders. We have to express u1 and u2 in terms of pc.
