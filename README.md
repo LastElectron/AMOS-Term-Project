@@ -9,18 +9,18 @@
 - Jupyter Notebook
 
 ## Contents
-Problem Statement
-1. Initializing Neccesary Libraries and Functions
-2. Deriving Expression for $\sigma_{rr}$ and $\sigma_{\theta\theta}$ for any general cylinder
-3. Analysis of Two Special Cases based on Internal and External Pressure Conditions
-4. Analysis of Shrink Fitted Composite Cylinder
-5. Derivation of Radial Displacements of Inner and Outer Cylinder of Composite Cylinder
-6. Analysis of Composite Cylinder under Internal Pressure and no External Pressure for Equal Strengths of Both Cylinders
-7. Calculation of Optimum Shrink Fit Allowance $\Delta$ using Maximum Shear Stress Theory
-8. Conclusion
+• Problem Statement
+  1. Initializing Neccesary Libraries and Functions
+  2. Deriving Expression for $\sigma_{rr}$ and $\sigma_{\theta\theta}$ for any general cylinder
+  3. Analysis of Two Special Cases based on Internal and External Pressure Conditions
+  4. Analysis of Shrink Fitted Composite Cylinder
+  5. Derivation of Radial Displacements of Inner and Outer Cylinder of Composite Cylinder
+  6. Analysis of Composite Cylinder under Internal Pressure and no External Pressure for Equal Strengths of Both Cylinders
+  7. Calculation of Optimum Shrink Fit Allowance $\Delta$ using Maximum Shear Stress Theory
+  8. Conclusion
 
-Individual Contributions by Each Group Member
-References
+• Individual Contributions by Each Group Member
+• References
 
 ## __Problem Statement:__
 
