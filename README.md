@@ -1,5 +1,14 @@
 # Stressses in Composite Cylinders with Shrink Fits | Course Project, Dr. Jeevanjyoti Chakraborty, IIT Kharagpur
 
+## Group Members:
+Dolly Tiwari (23ME91R04)
+Mungekar Gaurav Bholanath Madhavi (23ME63R11)
+Harshit Meghjibhai Dandecha (23ME63R19)
+Aaditi Kumari (23ME63R34)
+
+## Guide:
+Prof. Jeevanjyoti Chakraborty
+
 ## __Problem Statement:__
 
 Consider a composite cylinder made of two cylinders made of two different materials and fitted one inside the other. Before assembling, the inner cylinder has an internal radius a and an external radius $c$. The internal radius of the outer cylinder is less than $c$ by $\Delta$, i.e. its internal radius is $c$ - $\Delta$. Its external radius is b. If the inner cylinder is cooled and the outer cylinder is heated, then the two cylinders can be assembled, one fitting inside the other. When the cylinders come to room temperature, a shrink fit is obtained.
