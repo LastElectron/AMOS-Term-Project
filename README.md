@@ -28,7 +28,7 @@
 Consider a composite cylinder made of two cylinders made of two different materials and fitted one inside the other. Before assembling, the inner cylinder has an internal radius a and an external radius $c$. The internal radius of the outer cylinder is less than $c$ by $\Delta$, i.e. its internal radius is $c$ - $\Delta$. Its external radius is b. If the inner cylinder is cooled and the outer cylinder is heated, then the two cylinders can be assembled, one fitting inside the other. When the cylinders come to room temperature, a shrink fit is obtained.
 
 <p align="center">
-    ![pic00001](https://github.com/user-attachments/assets/b12b3cf3-c2aa-4b0b-aac0-44bf851927ed)  
+    ![pic00001](https://github.com/user-attachments/assets/7ca8479e-a9b5-4203-8d48-e64e2b5152d3)
     *Figure 1: (a) Inner Cylinder and (b) Outer Cylinder before Assembly*
 </p>
 
