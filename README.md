@@ -1,4 +1,4 @@
-# Stressses in Composite Cylinders with Shrink Fits | Course Project, Dr. Jeevanjyoti Chakraborty, IIT Kharagpur
+# Stressses in Composite Cylinders with Shrink Fits
 
 ## Group Members:
 Dolly Tiwari (23ME91R04)
