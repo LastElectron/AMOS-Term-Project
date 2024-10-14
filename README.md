@@ -41,5 +41,11 @@ __(3)__ Using relation between u1, u2 and Δ, we will find contact pressure pc.
 
 __(4)__ Now we will apply internal pressure p to our composite cylinder. Our next aim is to calculate shrink fit allowance Δ such that strength of both cylinders will be equal. We will use maximum shear stress theory for this purpose.
 
+![PIC002](https://github.com/user-attachments/assets/06c13de7-2773-41c6-a2e8-4397654f8997)
+
+<p align="center">
+    Figure 2: Composite Cylinder with internal pressure “p”
+</p>
+
 ## View the Notebook (nbviewer)
 You can view the Jupyter Notebook online using nbviewer: [View Notebook](https://nbviewer.org/github/LastElectron/Stresses-in-Composite-Cylinders-with-Shrink-Fits/blob/b36340046e4bdb1731463d3e04bfdf30424cf4c6/Term%20Project%20Submission%20-%20Group%205.ipynb)
