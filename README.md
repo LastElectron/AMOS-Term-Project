@@ -8,7 +8,7 @@
 - Python 3.x
 - Jupyter Notebook
 
-## Contents
+ Contents
 &bull; [Problem Statement](#Problem-Statement:)
 1. [Initializing Neccesary Libraries and Functions](#Part-1:-Initializing-neccesary-libraries-and-functions)
 2. [Deriving Expression for $\sigma_{rr}$ and $\sigma_{\theta\theta}$ for any general cylinder](#Part-2:-Deriving-expression-for-$\sigma_{rr}$-and-$\sigma_{\theta\theta}$)
@@ -22,7 +22,7 @@
 &bull; [Individual Contributions by Each Group Member](#Individual-Contributions-by-Each-Group-Member:)<br>
 &bull; [References](#References:)
 
-__Problem Statement:__
+## __Problem Statement:__
 
 Consider a composite cylinder made of two cylinders made of two different materials and fitted one inside the other. Before assembling, the inner cylinder has an internal radius a and an external radius $c$. The internal radius of the outer cylinder is less than $c$ by $\Delta$, i.e. its internal radius is $c$ - $\Delta$. Its external radius is b. If the inner cylinder is cooled and the outer cylinder is heated, then the two cylinders can be assembled, one fitting inside the other. When the cylinders come to room temperature, a shrink fit is obtained.
 
