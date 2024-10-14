@@ -1,28 +1,5 @@
 # Stressses in Composite Cylinders with Shrink Fits | Course Project, Dr. Jeevanjyoti Chakraborty, IIT Kharagpur
 
-## Description
-• Derived expressions for radial and circumferential stresses in the inner cylinder of a composite system using axisymmetric formulation.
-• Determined the shrink fit allowance for equal strength using maximum shear stress theory.
-
-## Prerequisites
-- Python 3.x
-- Jupyter Notebook
-
-## Contents
-• Problem Statement
-  1. Initializing Neccesary Libraries and Functions
-  2. Deriving Expression for $\sigma_{rr}$ and $\sigma_{\theta\theta}$ for any general cylinder
-  3. Analysis of Two Special Cases based on Internal and External Pressure Conditions
-  4. Analysis of Shrink Fitted Composite Cylinder
-  5. Derivation of Radial Displacements of Inner and Outer Cylinder of Composite Cylinder
-  6. Analysis of Composite Cylinder under Internal Pressure and no External Pressure for Equal Strengths of Both Cylinders
-  7. Calculation of Optimum Shrink Fit Allowance $\Delta$ using Maximum Shear Stress Theory
-  8. Conclusion
-
-• Individual Contributions by Each Group Member
-
-• References
-
 ## __Problem Statement:__
 
 Consider a composite cylinder made of two cylinders made of two different materials and fitted one inside the other. Before assembling, the inner cylinder has an internal radius a and an external radius $c$. The internal radius of the outer cylinder is less than $c$ by $\Delta$, i.e. its internal radius is $c$ - $\Delta$. Its external radius is b. If the inner cylinder is cooled and the outer cylinder is heated, then the two cylinders can be assembled, one fitting inside the other. When the cylinders come to room temperature, a shrink fit is obtained.
@@ -46,6 +23,25 @@ __(4)__ Now we will apply internal pressure p to our composite cylinder. Our nex
 <p align="center">
     Figure 2: Composite Cylinder with internal pressure “p”
 </p>
+
+## Prerequisites
+- Python 3.x
+- Jupyter Notebook
+
+## Contents
+• Problem Statement
+  1. Initializing Neccesary Libraries and Functions
+  2. Deriving Expression for $\sigma_{rr}$ and $\sigma_{\theta\theta}$ for any general cylinder
+  3. Analysis of Two Special Cases based on Internal and External Pressure Conditions
+  4. Analysis of Shrink Fitted Composite Cylinder
+  5. Derivation of Radial Displacements of Inner and Outer Cylinder of Composite Cylinder
+  6. Analysis of Composite Cylinder under Internal Pressure and no External Pressure for Equal Strengths of Both Cylinders
+  7. Calculation of Optimum Shrink Fit Allowance $\Delta$ using Maximum Shear Stress Theory
+  8. Conclusion
+
+• Individual Contributions by Each Group Member
+
+• References
 
 ## View the Notebook (nbviewer)
 You can view the Jupyter Notebook online using nbviewer: [View Notebook](https://nbviewer.org/github/LastElectron/Stresses-in-Composite-Cylinders-with-Shrink-Fits/blob/b36340046e4bdb1731463d3e04bfdf30424cf4c6/Term%20Project%20Submission%20-%20Group%205.ipynb)
