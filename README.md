@@ -20,6 +20,7 @@
   8. Conclusion
 
 • Individual Contributions by Each Group Member
+
 • References
 
 ## __Problem Statement:__
